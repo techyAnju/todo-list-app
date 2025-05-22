@@ -17,7 +17,6 @@ A simple and responsive To-Do List application built using **HTML**, **CSS**, an
 ##  Live Preview
 
 👉 [Click here to see it live](https://techyanju.github.io/todo-list-app/) 
-*(Replace this with your actual GitHub Pages link)*
 
 ---
 
